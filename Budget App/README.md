@@ -48,6 +48,7 @@ Percentage spent by category
  10| o  o  o  
   0| o  o  o  
     ----------
+    
      F  C  A  
      o  l  u  
      o  o  t  
