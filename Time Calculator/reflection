@@ -1,0 +1,4 @@
+<p> This project gave me quite some issues. I rewrote the entire code at one point after having finished a decent chunk of it because I realised I kept adding a lot of statements to account for logical lapses in previous code.
+<p> The major change was to convert everything to a 24 hour clock first then calculating as required, while i tried to do everything in 12 hour blocks in the first attempt. 
+<p> In particular I encountered quite some issues with flipping between AM and PM.
+<p> The solution to all my problems was actually to just turn everything into a 24 hour clock system which made life a lot easier.
