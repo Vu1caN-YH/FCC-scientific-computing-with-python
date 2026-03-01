@@ -1,0 +1,5 @@
+This project was interesting. 
+I do not think it was especially difficult, and I was able to get it done within a day. 
+The draw function was interesting, and I definitely did not expect to use the copy.copy there. 
+Much of the logical errors came down in the "matching" function later on, where I learnt to use the deepcopy function to create a new "hat_copy" so that my initial hat instance would not change. 
+I also had some logical errors when checking the expected balls and the removed balls
